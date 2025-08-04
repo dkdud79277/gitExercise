@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 나는 git 천재가 될거야
+=======
+git push -u origin 내 repository 주소 꼭 하기~ 그래야 github에 올라감
+>>>>>>> example2
